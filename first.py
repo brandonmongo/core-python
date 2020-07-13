@@ -1,5 +1,5 @@
-def print_message(message):
-    print(message)
+my_list = [1, 2, 3, 4, 5]
 
 
-print_message("hello World")
+for item in my_list:
+    print(item)
